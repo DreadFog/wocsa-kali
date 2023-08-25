@@ -1,1 +1,1 @@
-# wocsa-kali
+CI repo for Kali Linux custom WOCSA iso
